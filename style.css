@@ -53,8 +53,9 @@ button > p {
 }
 
 footer {
-  background-color: black;
+  background-color: #404344;
   color: white;
+  margin-top: 50px;
 }
 
 .contact {
